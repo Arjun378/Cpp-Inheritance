@@ -35,4 +35,6 @@ class car: private vehicle
 main()
 {
     car c;
+    c.disp;
+    return 0;
 }
